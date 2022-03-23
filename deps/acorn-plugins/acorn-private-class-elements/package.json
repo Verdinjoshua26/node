@@ -33,7 +33,7 @@
     }
   ],
   "dependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^6.2.3"
   },
   "deprecated": false,
   "description": "Helpers for supporting private class methods and fields in acorn",
