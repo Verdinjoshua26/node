@@ -34,7 +34,7 @@
     }
   ],
   "dependencies": {
-    "acorn-private-class-elements": "^0.1.1"
+    "acorn-private-class-elements": "^0.2.0"
   },
   "deprecated": false,
   "description": "Support for class fields in acorn",
